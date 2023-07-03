@@ -1,0 +1,2 @@
+git Flask==2.3.2
+webargs==8.2.0
